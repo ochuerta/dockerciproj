@@ -6,7 +6,7 @@
 setup:
 	# Create python virtualenv & source it
 	source ~/environment/.dockerciproj/bin/activate
-	# python3 -m venv ~/.udacity-devops
+	# python3 -m venv ~/.dockerciproj
 
 install:
 	# This should be run from inside a virtualenv
